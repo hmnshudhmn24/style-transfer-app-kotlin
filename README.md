@@ -37,4 +37,3 @@ git clone https://github.com/yourusername/kotlin-style-transfer-app.git
 - Save images to gallery  
 - More style choices dynamically loaded
 
----
